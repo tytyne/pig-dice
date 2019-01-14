@@ -2,7 +2,7 @@
 
 Friday 11th January 2019
 
-#### By _Magali Zaninka_
+#### By _Florentine Dusabeyezu_
 
 ## Description
 
@@ -39,4 +39,4 @@ _This web application allows two players to play a game of Pig Dice._
 
 _This software is licensed under the MIT license._
 
-Copyright (c) 2016 **_Magali Zaninka_**
+Copyright (c) 2019 **_Florentine Dusabeyezu_**
