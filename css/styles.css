@@ -22,3 +22,13 @@ input[type=text] {
     padding-left: 20px;
     margin-bottom: 20%;
 }
+
+.btn-success {
+    background-color: aquamarine;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    position: center;
+}
