@@ -28,8 +28,39 @@
         </ol>
     </div>
 
+    <h1>
+        <center> Let's Play Pig Dice!!</center>
+    </h1>
+    <div class="start-menu">
+        <form id="pigForm" class="form-group" action="index.html" method="post">
+            <div class="player-group">
+                <label class="player-group">Enter Player1</label>
+                <input id="playerName1" type="text">
+            </div>
+            <div class="playersName">
+                <label class="player-group">Enter Player2</label>
+                <input id="playerName2" type="text">
+            </div>
 
-    <script src="js/scripts.js"></script>
+            <button id="start" type="submit">Submit</button>
+
+        </form>
+    </div>
+
+    <div class="wrapper clearfix">
+        <div class="player-0-panel active">
+            <!-- <div class="player-name" id="name-0">Player 1</div> -->
+
+            <h2>Player 1: <span class="player1Name"><span> <span id="name-0"><span></span></h2>
+            <div class="player-score" id="score-0">43</div>
+            <div class="player-current-box">
+                <div class="player-current-label">Current</div>
+                <div class="player-current-score" id="current-0">11</div>
+            </div>
+        </div>
+
+
+        <script src="js/scripts.js"></script>
 </body>
 
 </html>
