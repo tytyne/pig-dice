@@ -26,6 +26,7 @@ _This web application allows two players to play a game of Pig Dice._
 - _Open web browser of choice_
 - \_https://github.com/tytyne/pig-dice
 - https://github.com/tytyne/pig-dice/index.html
+- https://tytyne.github.io/pig-dice
 
 ## Technologies Used
 
